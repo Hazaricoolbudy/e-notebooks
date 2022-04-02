@@ -1,0 +1,8 @@
+{
+    "diffEditor.wordWrap": "on",
+    "editor.wordWrap": "on",
+    "workbench.preferredHighContrastColorTheme": "Red",
+    "workbench.preferredHighContrastLightColorTheme": "Tomorrow Night Blue",
+    "workbench.activityBar.iconClickBehavior": "focus",
+    "workbench.iconTheme": "file-icons"
+}
